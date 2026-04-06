@@ -1,7 +1,7 @@
 # AI Text Summarizer (LLaMA3 + Groq)
 
 Live Demo:
-https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE
+[https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE](https://huggingface.co/spaces/Faraz618/ai-summarizer)
 
 ## Overview
 This project is an AI-powered document summarization tool built using LLaMA 3 and Groq API with a Gradio interface. The application can summarize long documents into bullet points, executive summaries, or simple English explanations.
