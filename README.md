@@ -28,19 +28,8 @@ This project is an AI-powered document summarization tool built using LLaMA 3 an
 
 ### Main Interface
 
-![UI](screenshots/ui.png)
+<img width="1304" height="600" alt="image" src="https://github.com/user-attachments/assets/f04ea182-c31d-4954-92c4-1f5b161d86a3" />
 
-### Input Text
-
-![Input](screenshots/input.png)
-
-### Generated Summary
-
-![Output](screenshots/output.png)
-
-### Live App
-
-![Live](screenshots/live.png)
 
 ## Run Locally
 
