@@ -24,7 +24,7 @@ This project is an AI-powered document summarization tool built using LLaMA 3 an
 * LLaMA 3
 * Hugging Face Spaces
 
-## Screenshots
+## Screenshots.
 
 ### Main Interface.
 
