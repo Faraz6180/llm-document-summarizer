@@ -26,7 +26,7 @@ This project is an AI-powered document summarization tool built using LLaMA 3 an
 
 ## Screenshots
 
-### Main Interface
+### Main Interface.
 
 <img width="1304" height="600" alt="image" src="https://github.com/user-attachments/assets/f04ea182-c31d-4954-92c4-1f5b161d86a3" />
 
