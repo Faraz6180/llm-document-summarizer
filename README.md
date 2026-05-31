@@ -16,7 +16,7 @@ This project is an AI-powered document summarization tool built using LLaMA 3 an
 * Fast inference using Groq
 * Deployed on Hugging Face Spaces
 
-## Tech Stack
+## Tech Stack.
 
 * Python
 * Gradio
