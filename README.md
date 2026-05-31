@@ -1,6 +1,6 @@
 # LLM Document Summarizer (LLaMA 3 + Groq)
 
-## Live Demo..
+## Live Demo
 
 https://huggingface.co/spaces/Faraz618/ai-summarizer
 
