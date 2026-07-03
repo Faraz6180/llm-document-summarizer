@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-https://huggingface.co/spaces/Faraz618/ai-summarizer
+https://huggingface.co/spaces/Faraz618/ai-summarizer..
 
 ## overview
 
